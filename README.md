@@ -9,6 +9,7 @@ This repository holds the high-resolution PNGs for the Stable Filters blog posts
 The images are named as follows:
 
 name_original.png - the input image
+
 name_filter_iterations_result.png - the output image, where:
 
 - name identifies the input image to which this output corresponds
